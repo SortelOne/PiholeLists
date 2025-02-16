@@ -7000,7 +7000,7 @@ ff02::3 ip6-allhosts
 # [doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
-0.0.0.0 ad.doubleclick.net
+# 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 fls.doubleclick.net
@@ -111286,9 +111286,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
-0.0.0.0 n4052ad.doubleclick.net
-0.0.0.0 n4403ad.doubleclick.net
-0.0.0.0 n479ad.doubleclick.net
+# 0.0.0.0 n4052ad.doubleclick.net
+# 0.0.0.0 n4403ad.doubleclick.net
+# 0.0.0.0 n479ad.doubleclick.net
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 www3.doubleclick.net
@@ -116149,7 +116149,7 @@ ff02::3 ip6-allhosts
 
 #0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
 				# video on sites such as cbc.ca
-#0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
+# 0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
 				# and potentially other sites. 
 0.0.0.0 media.fastclick.net # Likewise, this may interfere with some
 #0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
