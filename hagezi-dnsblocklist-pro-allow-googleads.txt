@@ -59196,8 +59196,6 @@
 ||ad.mo.doubleclick.net^
 ||motifcdn2.doubleclick.net^
 ||ad.n2434.doubleclick.net^
-||n4052ad.doubleclick.net^
-||n4403ad.doubleclick.net^
 ||ad.nl.doubleclick.net^
 ||ad.no.doubleclick.net^
 ||paypalssl.doubleclick.net^
