@@ -1,3 +1,4 @@
+# My name is Jake and I have modified the list above to allow the googleads listing thingies to get through! This is for my mom :)
 [Adblock Plus]
 ! Title: HaGeZi's Pro DNS Blocklist - Modified
 ! Description: Big broom but with modifications
@@ -6,8 +7,6 @@
 ! Version: 2025.0216.1404.53
 ! Syntax: AdBlock
 ! Number of entries: 183431
-!
-! My name is Jake and I have modified the list above to allow the googleads listing thingies to get through! This is for my mom :)
 !
 ||0.org^
 ||0.to^
