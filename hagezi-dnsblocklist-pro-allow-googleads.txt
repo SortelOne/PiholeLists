@@ -131753,7 +131753,6 @@
 ||sslstats.ssl.postescanada-canadapost.ca^
 ||sslstats.postescanada-canadapost.ca^
 ||stats.postescanada-canadapost.ca^
-||posthog.com^
 ||postiimages.org^
 ||postislan.top^
 ||postitial.com^
